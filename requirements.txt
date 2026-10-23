@@ -1,0 +1,6 @@
+Pillow>=10.0
+comtypes>=1.4
+winrt-runtime>=2.0
+winrt-Windows.Foundation>=2.0
+winrt-Windows.Storage>=2.0
+winrt-Windows.System.UserProfile>=2.0
